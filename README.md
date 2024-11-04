@@ -1,35 +1,25 @@
-# Bubble Game
-This repository is a Bubble Game created by using html, css and javascript. This game basically consists of 1-10 numbered bubbles, and we need to click the bubble to match its number with respective hit goal before the timer runs out. This game has a score feature too. Overall, this project enhanced my skills in javascript development.
+# Bubble Game ⭕
+This repository is a Bubble Game created by using html, css and javascript. This game basically consists of 1-10 numbered bubbles, and we need to click the bubble to match its number with respective hit goal before the timer runs out. This game has a score feature too. Overall, this project enhanced my skills in javascript development. 🌟
 
 
+## Technologies Used ⚙️
 
+- **Frontend**: 
+  - HTML 🖊
+  - CSS 🎨
+  - JavaScript ⚒
+- **Tools**:
+  - Vs Code for coding 💻
 
-## Screenshots
-![i1](https://github.com/prathamsingh19/Bubble_Game/assets/168055736/fc971e86-e3ac-453d-9046-099cd22b8a90)
+## Contact 📫
 
-![i2](https://github.com/prathamsingh19/Bubble_Game/assets/168055736/c9f1c058-53ed-45a7-b513-f9fbe6ca4f66)
+Feel free to reach out to me:
 
-![i3](https://github.com/prathamsingh19/Bubble_Game/assets/168055736/95cdd66a-a277-4889-a0f6-f9406c2ad677)
+- Email: prathamsingh19102003@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/prathamsingh19102003](https://www.linkedin.com/in/prathamsingh19102003)
+- GitHub: [https://github.com/prathamsingh19](https://github.com/prathamsingh19)
+- Instagram: [https://www.instagram.com/prathamsingh.__/](https://www.instagram.com/prathamsingh.__/)
 
+---
 
-
-
-
-
-
-
-
-
-
-## Technologies Used
-
-This project is created by using following
-technologies:
-
-- Visual Studio Code
-- HTML
-- CSS
-- JavaScript
-
-
-## THANK YOU
+Thank you 👋
